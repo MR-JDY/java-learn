@@ -1,4 +1,4 @@
-package com.example.javafundemental.stream;
+package com.example.javafundemental.lambda;
 
 
 import java.util.List;
