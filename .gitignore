@@ -38,3 +38,5 @@ build/
 /.mvn/
 /java-fundemental/.mvn/
 /.mvn/
+/java-fundemental/.mvn/wrapper/
+/.mvn/wrapper/
