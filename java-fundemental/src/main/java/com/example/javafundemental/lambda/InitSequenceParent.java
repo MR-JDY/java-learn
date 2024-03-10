@@ -73,10 +73,10 @@ class Derived extends InitSequenceParent {
     }
 
     public static void main(String[] args) {
-        System.out.println("main 第一方法");
+        /*System.out.println("main 第一方法");
         InitSequenceParent.A();
         System.out.println("main 第二方法");
-        Derived.A();
+        Derived.A();*/
         System.out.println("main 第三方法");
         new Derived();
     }
